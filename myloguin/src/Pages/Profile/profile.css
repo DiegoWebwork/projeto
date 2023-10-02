@@ -1,8 +1,9 @@
-.home{
+.ProfileContainer{
           background-color: rgb(235, 238, 242);
+
 }
 
-.ComponentContainer{
+.subProfileContainer{
           width: 80%;
           margin: auto;
           display: flex;
